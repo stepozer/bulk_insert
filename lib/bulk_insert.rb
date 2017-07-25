@@ -1,3 +1,4 @@
+require 'active_support'
 require 'bulk_insert/worker'
 
 module BulkInsert
